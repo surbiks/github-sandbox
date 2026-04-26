@@ -94,7 +94,7 @@ The resulting archive will be named like: `archive_20250423_153012.zip`
 After committing, you can monitor the workflow:
 
 1. Click the **Actions** tab in your repository
-2. Click the latest workflow run to see progress and logs
+2. Click the latest workflow run to see progress and logs.
 3. Once it completes, go back to the **Code** tab and open the `downloads/` folder to find your files
 
 ---
